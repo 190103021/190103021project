@@ -1,0 +1,85 @@
+{
+   "Call":"Қоңырау шалу",
+   "HOME":"БАСТЫ БЕТ",
+   "DESSERTS":"ДЕСЕРТТЕР",
+   "BIRTHDAYS":"ТУҒАН КҮНДЕР",
+   "WEDDINGS":"УЙЛЕНУ ТОЙЛАРЫ",
+   "ABOUT US":"БІЗ ТУРАЛЫ",
+   "ORDER NOW":"ТАПСЫРЫС БЕРУ",
+
+   "Thanks for submitting your order.":"Тапсырыс бергеніңіз үшін рахмет.",
+   "We will get in touch with you shortly to confirm or further discuss your order. If you do not receive an email from us within 24-48 hours, please get in touch with us!":
+   "Сіздің тапсырысыңызды растау немесе одан әрі талқылау үшін біз сізбен жақын арада байланыста боламыз. Егер сізге 24-48 сағат ішінде электрондық хат келмесе, бізбен байланысқа шығыңыз!",
+   
+   "Benefits Of Ordering Cake Online from our internet-shop:":"Біздің интернет-дүкеннен тортқа онлайн тапсырыс берудің артықшылықтары:",
+   "Getting the cake delivery at the doorstep is one another benefits of ordering online cakes. You get the cake without stepping out of your home, it reduces your efforts and you can focus on other important works. Getting delivery at doorstep is the ultimate experience you have ever had. You can also plan a cake delivery at your friend’s place too.":
+   "Торттарды босағаға дейін жеткізу - бұл онлайн торттарға тапсырыс берудің бір артықшылығы. Сіз тортты үйден шықпай-ақ аласыз, бұл сіздің күш-жігеріңізді азайтады және сіз басқа маңызды жұмыстарға назар аудара аласыз. Үйдің босағасында жеткізу - бұл сіздің бұрын-соңды болмаған тәжірибеңіз. Сіз сондай-ақ тортты достарыңыздың үйіне жеткізуді жоспарлай аласыз.",
+   "No more long drives and finding a parking space just to order a cake, No more walking through crowded areas. With the existence of online delivery, you can purchase your cakes and can choose from a wide range of cakes available online.":
+   "Енді тортқа тапсырыс беру үшін ұзақ дискілер мен автотұрақ табуға болмайды, адамдар көп жиналатын жерлерде жүруге болмайды. Онлайн жеткізілім болғандықтан, сіз торттарыңызды сатып ала аласыз және Интернетте қол жетімді торттардың кең таңдауын таңдай аласыз.",
+   "Ordering cakes online will give you more than 100s of options for the cake designs and you can easily choose the one you like to have. While if you go to a retail shop and try to order from there, you will get only a limited number of cakes and designs.":
+   "Интернеттегі торттарға тапсырыс беру сізге торттардың 100-ден астам нұсқаларын ұсынады және сіз өзіңізге ұнағанын оңай таңдай аласыз. Егер сіз бөлшек сауда дүкеніне барып, сол жерден тапсырыс бергіңіз келсе, сізге тек торттар мен дизайндардың шектеулі саны жетеді.",
+   "Gone are the days when just basic pineapple, chocolate or vanilla cakes were available in the market. Creativity and uniqueness is also found in the varieties of cakes available these days. You can get a fusion flavour cake or an unusual cake of an unfamiliar flavour and design now. But it’s very hard to get this uniqueness in normal bakery shops. Ordering cakes online gives you this option.":
+   "Нарықта қарапайым ананас, шоколад немесе ванильді пирожныйлар болатын күндер артта қалды. Шығармашылық пен бірегейлік қазіргі уақытта қол жетімді торттардың түрлерінде де бар. Сіз қазір термоядролық хош иісті тортты немесе бейтаныс дәмі мен дизайны бойынша ерекше тортты ала аласыз. Бірақ бұл бірегейлікті кәдімгі наубайханаларда табу өте қиын. Интернеттегі торттарға тапсырыс беру сізге осындай мүмкіндік береді.",
+   "You can arrange online cake delivery at your doorstep and that too at midnight when the clock turns 12. This would astound your friend more than ever that how you  have figured out and planned everything while remaining at home. Doing this through ordering online makes it look very simple.":
+   "Сіз өзіңіздің босағаңызда тортты онлайн режимінде жеткізуді ұйымдастыра аласыз, сонымен қатар түнгі он екіде, сағат 12-ге айналғанда, бұл сіздің досыңызды үйде қалай болғанда да қалай ойлап, қалай жоспарлағаныңызға бұрынғыдан да таң қалдырады. Мұны желіде тапсырыс беру арқылы жасау өте қарапайым болып көрінеді.",
+
+   "tg":"тг",
+    "Lemon Raspberry":"Лимон-таңқурай",
+    "Strawberry Shortcake":"Құлпынай пирогы",
+    "Tuxedo (marble)":"Смокедо (мәрмәр)",
+    "Strawberry":"Құлпынай",
+    "Oreo":"Орео",
+    "Skor":"Скор",
+    "Apple":"Алма",
+    "Strawberry Rhubarb":"Құлпынай ревеньі",
+    "Cherry":"Шие",
+    "Chocolate":"Шоколад",
+    "Coconut":"Кокос",
+    "Salted Caramel":"Тұздалған карамель",
+    "Turtle":"Тасбақа торты",
+    "Vanilla Confetti":"Ванильді конфетти",
+    "Blueberry Peach":"Көкжидек-шабдалы",
+    "Cookies n Cream":"Печенье және крем",
+    "Chocolate Raspberry":"Шоколад-таңқурай",
+    "Orange Creamsicle":"Апельсин кремі",
+    "Red Velvet":"Қызыл бархат",
+
+    "Cakes":"Торттар",
+    "Customized for all occasions and created by hand with the finest ingredients and artistic craftsmanship.":"Барлық жағдайларға бейімделген және керемет ингредиенттермен және қолмен жасалған.",
+    "Affordable prices!":"Қолжетімді бағалар!",
+    "Cupcakes":"Кекстер",
+    "Custom flavours and designs topped with signature buttercream. Possibilities are endless for every celebration.":"Қолданбалы майға арналған креммен толтырылған арнайы дәм мен дизайн. Мүмкіндіктер әр мереке үшін шексіз.",
+    "Cake Pops":"Кейк поптар",
+    "Little bits of goodness dipped in chocolate or vanilla and decorated for all those special occasions.":"Шоколадқа немесе ванильге батырылған кішкене ізгіліктер барлық ерекше жағдайларда безендірілген.",
+
+    "Customer information":"Тұтынушы туралы ақпарат",
+    "Order pickup":"Тапсырыс",
+    "Order details":"Тапсырыс туралы мәліметтер",
+    "Desserts":"Десерттер",
+    "Information about your order":"Сіздің тапсырысыңыз туралы ақпарат",
+    "Sweet cravings":"Тәтті құмарлық",
+    "Savoury cravings":"Дәм құмарлық",
+    "English eats":"Ағылшын тағамдары",
+    "Upload your cake design":"Торттың дизайнын жүктеңіз",
+
+    "According to Britannicas site,":"Britannica сайтының хабарлауынша,",
+    "Cake, in general, any of a variety of breads, shortened or unshortened, usually shaped by the tin in which it is baked; more specifically, a sweetened bread, often rich or delicate.In the codified cuisine of France, all cakes, or gâteaux, derive from one of eight basic doughs: short pastry, flake pastry, sweet pastry, savarin, brioche, baba, chou pastry, and genoise. To these are added an infinite variety of flavouring and decorative ingredients, such as marzipan, sugar icing, spices, fruits, and cremes. The torte is a very rich cake found throughout Europe, often of numerous thin layers and containing nuts, fruit, creme, and chocolate in combination. The claim to invention of the world-famous chocolate Sachertorte is disputed between two Vienna hotels.":
+    "Торт, жалпы, қысқартылған немесе қысқартылмаған, әдетте ол пісірілген қаңылтыр пішіндес болатын кез-келген алуан түрлі нан; нақтырақ айтқанда, көбіне қаныққан немесе нәзік тәтті нан.Францияның кодталған асханасында барлық пирожныйлар немесе гато сегіз негізгі қамырдың біреуінен алынады: қысқа тоқаш, үлпектік тоқаш, тәтті тоқаш, саварин, бриохе, баба, чу тоқаш , және генуа. Бұларға хош иісті және декоративті ингредиенттердің шексіз алуан түрлілігі қосылады, мысалы, марципан, қант глазурі, дәмдеуіштер, жемістер және кремдер. Торт - бұл бүкіл Еуропада кездесетін, көбінесе көптеген жұқа қабаттардан тұратын, құрамында жаңғақтар, жемістер, крем және шоколад бар өте бай торт. Әлемге әйгілі Sachertorte шоколадын ойлап табу туралы талап екі Вена қонақ үйінің арасында даулы.",
+    "Bakery hours":"Жұмыс уақыты",
+    "Monday":"Дс",
+    "Tues-Fry":"Сә-Жм",
+    "Saturday":"Сн",
+    "Sunday":"Жс",
+    "Bakery location":"Адрес",
+    "Ryskulov Avenue":"Рысқұлов Даңғылы",
+    "Almaty, Kazakhstan":"Алматы, Қазақстан",
+    "Place an order":"Тапсырыс беру",
+    "Phone":"Телефон",
+    "Email":"Пошта",
+    "Wedding cakes":"Үйлену тойына арналған торттар",
+    "About us":"Біз туралы",
+    "Order now":"Тапсырыс беру",
+    "Birthday cakes":"Туған күн торттары",
+    "Closed":"Жабық",
+    "Author: Yembergenova Assel, 190103021":"Автор: Ембергенова Асель, 190103021"
+}
