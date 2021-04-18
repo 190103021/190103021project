@@ -22,3 +22,12 @@ My project is online-shop for orders of cakes, desserts, and other sweets. In th
 - I have attractive front end.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Снимок экрана (110)](https://user-images.githubusercontent.com/78644880/115160227-f3d23b80-a0b8-11eb-83c2-51647e09f945.png)
+
+This is the ER diagram of table. Table ORDERS has columns:                                                                                                                         
+- id: primary key
+- name: name of customer
+- email: e-mail address of customer
+- phone: telephone number of customer
+- image: design of sweets which customer wish 
+- info: detailed information about order of customer
