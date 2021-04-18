@@ -29,5 +29,5 @@ This is the ER diagram of table. Table ORDERS has columns:
 - name: name of customer
 - email: e-mail address of customer
 - phone: telephone number of customer
-- image: design of sweets which customer wish 
+- image: design of sweets which customer wishes 
 - info: detailed information about order of customer
