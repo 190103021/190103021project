@@ -13,4 +13,12 @@ My project is online-shop for orders of cakes, desserts, and other sweets. In th
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- 
+## In this project                                                                                                                                                                 
+- I used laravel 8 version
+- I have one table which called ORDERS
+- my project supports 3 languages 
+- file uploading ability exist.
+- my project contains email sending feature
+- I have attractive front end.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
